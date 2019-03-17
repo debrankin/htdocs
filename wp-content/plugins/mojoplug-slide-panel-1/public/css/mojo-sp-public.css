@@ -1,0 +1,113 @@
+.mojo-sp {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    margin: 0;
+    box-sizing: border-box;
+    background: #444;
+}
+
+.mojo-sp > .mojosp-widget-area {
+    height: inherit;
+    padding: 15px 25px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+#mojo-sp-left-wrap {
+    position: absolute;
+    top: 0;
+    width: 0px;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: none;
+}
+
+#mojo-sp-right-wrap {
+    position: absolute;
+    top: 0;
+    width: 0px;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: none;
+}
+
+#mojo-sp-left {
+}
+
+#mojo-sp-right {
+}
+
+.mojo-sp-button {
+    position:absolute;
+    background-color: #444;
+    margin: 0;
+    border: 0;
+    border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    width: 57px;
+    height: 50px;
+    box-sizing: border-box;
+    box-shadow: none;
+    display:block;
+    max-width: none;
+    max-height: none;
+}
+
+.mojo-sp-button:hover {
+    box-shadow: none;
+    text-shadow: none;
+}
+
+.mojo-sp-button:focus, .mojo-sp-button:active {
+    box-shadow: none;
+    text-shadow: none;
+    outline: none;
+}
+
+.mojo-sp-button span {
+    font-size: 46px;
+    font-weight: bold;
+    color: #888;
+    position: absolute;
+}
+
+#mojo-sp-left-button {
+    left: -7px;
+    border-radius:0px 5px 5px 0px;
+    -moz-border-radius:0px 5px 5px 0px;
+    -webkit-border-radius:0px 5px 5px 0px;
+}
+
+#mojo-sp-left-button span {
+    top: 2px;
+    left: 9px;
+}
+
+#mojo-sp-right-button {
+    right: -7px;
+    border-radius:5px 0px 0px 5px;
+    -moz-border-radius:5px 0px 0px 5px;
+    -webkit-border-radius:5px 0px 0px 5px;
+}
+
+#mojo-sp-right-button span {
+    top: 2px;
+    left: 2px;
+}
+
+/* ANIMATIONS */
+
+/***
+* If the animating class is present then apply
+* the CSS transition to #page over 250ms.
+*/
+.mojosp-animating {
+    transition: transform 0.25s ease-in-out;
+    -webkit-transition: -webkit-transform 0.25s ease-in-out;
+}

@@ -1,0 +1,21 @@
+/**
+ * Admin panel CSS
+ */
+
+input[type="text"] {
+    width: 200px;
+    height: 35px;
+    
+    border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    
+    box-shadow: inset 2px 2px 2px 0px #cccccc;
+    -webkit-box-shadow: inset 2px 2px 2px 0px #cccccc;
+    -moz-box-shadow: inset 2px 2px 2px 0px #cccccc;
+}
+
+form > h2 {
+    background: lightgray;
+    padding: 10px;
+}

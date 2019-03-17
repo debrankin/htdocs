@@ -1,0 +1,1 @@
+Please go to the http://sidebar.looks-awesome.com/docs/Getting_Started for online documentation

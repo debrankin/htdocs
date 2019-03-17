@@ -1,0 +1,84 @@
+/*
+Use this stylesheet to modify lookout of your panels.
+Note that there are more settings in Settings->MojoPlug Slide Panel.
+*/
+
+/*********** LEFT PANEL ***********/
+
+/* normal text, if outside any tags */
+#mojo-sp-left {
+    color: #fff;
+    opacity: 1; /* Ajust panel opacity below 1 if needed */
+    border-radius:0px 5px 5px 0px;
+    -moz-border-radius:0px 5px 5px 0px;
+    -webkit-border-radius:0px 5px 5px 0px;
+    box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.75);
+}
+
+/* header text */
+#mojo-sp-left h1, #mojo-sp-left h2, #mojo-sp-left h3, #mojo-sp-left h4, #mojo-sp-left h5 {
+    color: #ccc;
+}
+
+/* normal text */
+#mojo-sp-left p {
+    color: white;
+}
+
+/* link */
+#mojo-sp-left a {
+    color: #ccc;
+}
+
+/* link hover */
+#mojo-sp-left a:hover {
+    color: #fff;
+}
+
+/* tab button */
+#mojo-sp-left-wrap > button {
+    top: 10px; /* Use this value to adjust tab button vertical placement from the top of the target element */
+    opacity: 1; /* Ajust tab opacity below 1 if needed */
+}
+
+/*********** RIGHT PANEL ***********/
+
+/* normal text, if outside any tags */
+#mojo-sp-right {
+    color: #fff;
+    opacity: 1; /* Ajust panel opacity below 1 if needed */
+    border-radius:5px 0px 0px 5px;
+    -moz-border-radius:5px 0px 0px 5px;
+    -webkit-border-radius:5px 0px 0px 5px;
+    box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.75);
+}
+
+/* header text */
+#mojo-sp-right h1, #mojo-sp-right h2, #mojo-sp-right h3, #mojo-sp-right h4, #mojo-sp-right h5 {
+    color: #ccc;
+}
+
+/* normal text */
+#mojo-sp-right p {
+    color: white;
+}
+
+/* link */
+#mojo-sp-right a {
+    color: #ccc;
+}
+
+/* link hover */
+#mojo-sp-right a:hover {
+    color: #fff;
+}
+
+/* tab button */
+#mojo-sp-right-wrap > button {
+    top: 10px; /* Use this value to adjust tab button vertical placement from the top of the target element */
+    opacity: 1; /* Ajust tab opacity below 1 if needed */
+}

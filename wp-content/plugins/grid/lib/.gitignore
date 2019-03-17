@@ -1,0 +1,14 @@
+*config.codekit
+*.sass-cache
+.sass-cache/
+*.DS_Cache
+*.DS_Store
+
+composer.lock
+.idea
+
+# OS Stuff
+.DS_Store
+ehthumbs.db
+Icon
+Thumbs.db

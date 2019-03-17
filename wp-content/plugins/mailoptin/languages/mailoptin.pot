@@ -1,0 +1,4774 @@
+# Copyright (C) 2019 MailOptin - Lite
+# This file is distributed under the same license as the MailOptin - Lite package.
+msgid ""
+msgstr ""
+"Project-Id-Version: MailOptin - Lite 1.2.13.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mailoptin\n"
+"POT-Creation-Date: 2019-03-13 11:35:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: src/connections/ActiveCampaignConnect/AbstractActiveCampaignConnect.php:50
+msgid "ActiveCampaign API URL not found."
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/AbstractActiveCampaignConnect.php:54
+msgid "ActiveCampaign API key not found."
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/Connect.php:86
+#: src/connections/AweberConnect/Connect.php:62
+#: src/connections/ConvertFoxConnect/Connect.php:76
+#: src/connections/DripConnect/Connect.php:110
+#: src/connections/SendlaneConnect/Connect.php:60
+msgid "Lead Tags"
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/Connect.php:88
+#: src/connections/AweberConnect/Connect.php:64
+#: src/connections/ConvertFoxConnect/Connect.php:78
+#: src/connections/DripConnect/Connect.php:111
+msgid ""
+"Enter comma-separated list of tags to assign to subscribers who opt-in via "
+"this campaign."
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/Connect.php:95
+msgid "Assign Subscription Form"
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/Connect.php:97
+msgid ""
+"Choose the %sActiveCampaign Form%s to assign to all leads. Useful if you "
+"want to enable automation and double opt-in."
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/Connect.php:106
+msgid ""
+"Upgrade to %sMailOptin Premium%s to select %sActiveCampaign form and tags%s "
+"that will apply subscribers."
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/Connect.php:132
+msgid "ActiveCampaign"
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/Connect.php:205
+#: src/connections/KlaviyoConnect/Connect.php:164
+#: src/connections/MailerliteConnect/Connect.php:107
+msgid "Phone Number"
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/Connect.php:206
+#: src/connections/KlaviyoConnect/Connect.php:166
+msgid "Organization Name"
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/Connect.php:244
+#: src/connections/GetResponseConnect/ConnectSettingsPage.php:72
+#: src/connections/MailChimpConnect/Connect.php:558
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Integration_Repeater_Control.php:472
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:126
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:830
+#: src/core/src/Admin/SettingsPage/AddEmailCampaign.php:78
+#: src/core/src/OptinForms/SidebarWidgets.php:109
+#: src/core/src/Repositories/ConnectionsRepository.php:23
+msgid "Select..."
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/ConnectSettingsPage.php:17
+#: src/connections/AweberConnect/ConnectSettingsPage.php:28
+#: src/connections/CampaignMonitorConnect/ConnectSettingsPage.php:30
+#: src/connections/ConvertFoxConnect/ConnectSettingsPage.php:17
+#: src/connections/ConvertKitConnect/ConnectSettingsPage.php:17
+#: src/connections/CtctConnect/ConnectSettingsPage.php:28
+#: src/connections/DripConnect/ConnectSettingsPage.php:17
+#: src/connections/ElementorConnect/ConnectSettingsPage.php:17
+#: src/connections/EmailOctopusConnect/ConnectSettingsPage.php:17
+#: src/connections/GetResponseConnect/ConnectSettingsPage.php:40
+#: src/connections/KlaviyoConnect/ConnectSettingsPage.php:17
+#: src/connections/MailChimpConnect/ConnectSettingsPage.php:69
+#: src/connections/MailPoetConnect/ConnectSettingsPage.php:17
+#: src/connections/MailerliteConnect/ConnectSettingsPage.php:17
+#: src/connections/MailsterConnect/ConnectSettingsPage.php:17
+#: src/connections/PolylangConnect/ConnectSettingsPage.php:18
+#: src/connections/SendinblueConnect/ConnectSettingsPage.php:17
+#: src/connections/SendlaneConnect/ConnectSettingsPage.php:17
+#: src/connections/SendyConnect/ConnectSettingsPage.php:48
+msgid "Connected"
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/ConnectSettingsPage.php:19
+#: src/connections/AweberConnect/ConnectSettingsPage.php:33
+#: src/connections/CampaignMonitorConnect/ConnectSettingsPage.php:35
+#: src/connections/ConvertFoxConnect/ConnectSettingsPage.php:19
+#: src/connections/ConvertKitConnect/ConnectSettingsPage.php:19
+#: src/connections/CtctConnect/ConnectSettingsPage.php:33
+#: src/connections/DripConnect/ConnectSettingsPage.php:19
+#: src/connections/ElementorConnect/ConnectSettingsPage.php:19
+#: src/connections/EmailOctopusConnect/ConnectSettingsPage.php:19
+#: src/connections/GetResponseConnect/ConnectSettingsPage.php:42
+#: src/connections/KlaviyoConnect/ConnectSettingsPage.php:19
+#: src/connections/MailChimpConnect/ConnectSettingsPage.php:71
+#: src/connections/MailPoetConnect/ConnectSettingsPage.php:19
+#: src/connections/MailerliteConnect/ConnectSettingsPage.php:19
+#: src/connections/MailsterConnect/ConnectSettingsPage.php:19
+#: src/connections/PolylangConnect/ConnectSettingsPage.php:16
+#: src/connections/SendinblueConnect/ConnectSettingsPage.php:19
+#: src/connections/SendlaneConnect/ConnectSettingsPage.php:19
+#: src/connections/SendyConnect/ConnectSettingsPage.php:50
+msgid "Not Connected"
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/ConnectSettingsPage.php:23
+msgid "ActiveCampaign Connection"
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/ConnectSettingsPage.php:27
+msgid "Enter API URL"
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/ConnectSettingsPage.php:29
+msgid ""
+"Log in to your %sActiveCampaign account%s to get your API URL at \"Developer"
+"\" account settings."
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/ConnectSettingsPage.php:37
+#: src/connections/ConvertFoxConnect/ConnectSettingsPage.php:27
+#: src/connections/ConvertKitConnect/ConnectSettingsPage.php:27
+#: src/connections/EmailOctopusConnect/ConnectSettingsPage.php:28
+#: src/connections/GetResponseConnect/ConnectSettingsPage.php:51
+#: src/connections/KlaviyoConnect/ConnectSettingsPage.php:27
+#: src/connections/MailChimpConnect/ConnectSettingsPage.php:80
+#: src/connections/MailerliteConnect/ConnectSettingsPage.php:28
+#: src/connections/SendinblueConnect/ConnectSettingsPage.php:27
+#: src/connections/SendlaneConnect/ConnectSettingsPage.php:27
+msgid "Enter API Key"
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/ConnectSettingsPage.php:39
+msgid ""
+"Log in to your %sActiveCampaign account%s to get your \"API key\" at "
+"\"Developer\" account settings."
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/SendCampaign.php:114
+#: src/connections/AweberConnect/SendCampaign.php:73
+#: src/connections/CampaignMonitorConnect/SendCampaign.php:87
+#: src/connections/CtctConnect/SendCampaign.php:124
+#: src/connections/GetResponseConnect/SendCampaign.php:84
+#: src/connections/KlaviyoConnect/SendCampaign.php:93
+#: src/connections/MailChimpConnect/SendCampaign.php:124
+#: src/connections/MailerliteConnect/SendCampaign.php:87
+#: src/connections/SendinblueConnect/SendCampaign.php:113
+#: src/connections/SendyConnect/SendCampaign.php:92
+#: src/connections/SendyConnect/SendCampaign.php:95
+msgid "Unexpected error. Please try again"
+msgstr ""
+
+#: src/connections/ActiveCampaignConnect/Subscription.php:100
+#: src/connections/ActiveCampaignConnect/Subscription.php:105
+#: src/connections/AweberConnect/Subscription.php:94
+#: src/connections/AweberConnect/Subscription.php:107
+#: src/connections/CampaignMonitorConnect/Subscription.php:59
+#: src/connections/CampaignMonitorConnect/Subscription.php:64
+#: src/connections/ConvertFoxConnect/Subscription.php:104
+#: src/connections/ConvertFoxConnect/Subscription.php:109
+#: src/connections/ConvertKitConnect/Subscription.php:77
+#: src/connections/ConvertKitConnect/Subscription.php:82
+#: src/connections/CtctConnect/Subscription.php:42
+#: src/connections/CtctConnect/Subscription.php:47
+#: src/connections/DripConnect/Subscription.php:106
+#: src/connections/DripConnect/Subscription.php:111
+#: src/connections/EmailOctopusConnect/Subscription.php:91
+#: src/connections/EmailOctopusConnect/Subscription.php:96
+#: src/connections/GetResponseConnect/Subscription.php:94
+#: src/connections/GetResponseConnect/Subscription.php:99
+#: src/connections/KlaviyoConnect/Subscription.php:104
+#: src/connections/KlaviyoConnect/Subscription.php:109
+#: src/connections/MailChimpConnect/Subscription.php:156
+#: src/connections/MailChimpConnect/Subscription.php:161
+#: src/connections/MailPoetConnect/Subscription.php:100
+#: src/connections/MailerliteConnect/Subscription.php:79
+#: src/connections/MailerliteConnect/Subscription.php:89
+#: src/connections/MailsterConnect/Subscription.php:88
+#: src/connections/SendinblueConnect/Subscription.php:96
+#: src/connections/SendinblueConnect/Subscription.php:101
+#: src/connections/SendlaneConnect/Subscription.php:74
+#: src/connections/SendlaneConnect/Subscription.php:80
+#: src/connections/SendyConnect/Subscription.php:75
+#: src/connections/SendyConnect/Subscription.php:79
+msgid "There was an error saving your contact. Please try again."
+msgstr ""
+
+#: src/connections/AweberConnect/AbstractAweberConnect.php:59
+msgid "Aweber access_token and/or access token secret not found."
+msgstr ""
+
+#: src/connections/AweberConnect/Connect.php:70
+msgid ""
+"Upgrade to %sMailOptin Premium%s to apply tags to leads as well as get "
+"access to loads of conversion features."
+msgstr ""
+
+#: src/connections/AweberConnect/Connect.php:96
+msgid "AWeber"
+msgstr ""
+
+#: src/connections/AweberConnect/ConnectSettingsPage.php:29
+#: src/connections/CampaignMonitorConnect/ConnectSettingsPage.php:31
+#: src/connections/CtctConnect/ConnectSettingsPage.php:29
+msgid "RE-AUTHORIZE"
+msgstr ""
+
+#: src/connections/AweberConnect/ConnectSettingsPage.php:31
+msgid "Only re-authorize if you want to connect another AWeber account."
+msgstr ""
+
+#: src/connections/AweberConnect/ConnectSettingsPage.php:34
+#: src/connections/CampaignMonitorConnect/ConnectSettingsPage.php:36
+#: src/connections/CtctConnect/ConnectSettingsPage.php:34
+msgid "AUTHORIZE"
+msgstr ""
+
+#: src/connections/AweberConnect/ConnectSettingsPage.php:36
+msgid ""
+"Authorization is required to grant <strong>%s</strong> access to interact "
+"with your AWeber account."
+msgstr ""
+
+#: src/connections/AweberConnect/ConnectSettingsPage.php:40
+msgid "Aweber Connection"
+msgstr ""
+
+#: src/connections/CampaignMonitorConnect/AbstractCampaignMonitorConnect.php:66
+msgid "CampaignMonitor access token not found."
+msgstr ""
+
+#: src/connections/CampaignMonitorConnect/Connect.php:64
+msgid "Campaign Monitor"
+msgstr ""
+
+#: src/connections/CampaignMonitorConnect/ConnectSettingsPage.php:33
+msgid ""
+"Only re-authorize if you want to connect another Campaign Monitor account."
+msgstr ""
+
+#: src/connections/CampaignMonitorConnect/ConnectSettingsPage.php:38
+msgid ""
+"Authorization is required to grant <strong>%s</strong> access to interact "
+"with your Campaign Monitor account."
+msgstr ""
+
+#: src/connections/CampaignMonitorConnect/ConnectSettingsPage.php:63
+msgid "CampaignMonitor Connection"
+msgstr ""
+
+#: src/connections/CampaignMonitorConnect/ConnectSettingsPage.php:78
+msgid "No clients found. Ensure CampaignMonitor is connected"
+msgstr ""
+
+#: src/connections/CampaignMonitorConnect/ConnectSettingsPage.php:79
+msgid "Campaign Monitor Client"
+msgstr ""
+
+#: src/connections/CampaignMonitorConnect/ConnectSettingsPage.php:80
+msgid "Select a client to use and click the \"Save Changes\" button below."
+msgstr ""
+
+#: src/connections/ConvertFoxConnect/AbstractConvertFoxConnect.php:49
+msgid "ConvertFox API Key not found."
+msgstr ""
+
+#: src/connections/ConvertFoxConnect/Connect.php:47
+msgid "Gist (ConvertFox)"
+msgstr ""
+
+#: src/connections/ConvertFoxConnect/Connect.php:84
+msgid ""
+"%sMailOptin Premium%s allows you to apply tags to leads and record custom "
+"conversion events to ConvertFox."
+msgstr ""
+
+#: src/connections/ConvertFoxConnect/ConnectSettingsPage.php:22
+msgid "ConvertFox Connection"
+msgstr ""
+
+#: src/connections/ConvertFoxConnect/ConnectSettingsPage.php:29
+msgid "Learn how to %sget your ConvertFox API Key%s."
+msgstr ""
+
+#: src/connections/ConvertKitConnect/AbstractConvertKitConnect.php:49
+msgid "ConvertKit API Key not found."
+msgstr ""
+
+#: src/connections/ConvertKitConnect/Connect.php:44
+msgid "ConvertKit"
+msgstr ""
+
+#: src/connections/ConvertKitConnect/Connect.php:164
+msgid "Subscriber Sequences"
+msgstr ""
+
+#: src/connections/ConvertKitConnect/Connect.php:165
+msgid "Select ConvertKit sequences subscribers will be added to."
+msgstr ""
+
+#: src/connections/ConvertKitConnect/Connect.php:172
+msgid "Subscriber Tags"
+msgstr ""
+
+#: src/connections/ConvertKitConnect/Connect.php:173
+msgid "Select ConvertKit tags that will be added to subscribers."
+msgstr ""
+
+#: src/connections/ConvertKitConnect/Connect.php:179
+msgid ""
+"%sMailOptin Premium%s allows you to apply tags to subscribers, add "
+"subscribers to sequences and loads of other conversion features."
+msgstr ""
+
+#: src/connections/ConvertKitConnect/ConnectSettingsPage.php:22
+msgid "ConvertKit Connection"
+msgstr ""
+
+#: src/connections/ConvertKitConnect/ConnectSettingsPage.php:29
+msgid "Log in to your %sConvertKit account%s to get your api key."
+msgstr ""
+
+#: src/connections/CtctConnect/AbstractCtctConnect.php:53
+msgid "ConstantContact access token not found."
+msgstr ""
+
+#: src/connections/CtctConnect/Connect.php:37
+msgid "Constant Contact"
+msgstr ""
+
+#: src/connections/CtctConnect/ConnectSettingsPage.php:31
+msgid ""
+"Only re-authorize if you want to connect another Constant Contact account."
+msgstr ""
+
+#: src/connections/CtctConnect/ConnectSettingsPage.php:36
+msgid ""
+"Authorization is required to grant <strong>%s</strong> access to interact "
+"with your Constant Contact account."
+msgstr ""
+
+#: src/connections/CtctConnect/ConnectSettingsPage.php:40
+msgid "ConstantContact Connection"
+msgstr ""
+
+#: src/connections/DripConnect/AbstractDripConnect.php:91
+msgid "Drip API Token not found."
+msgstr ""
+
+#: src/connections/DripConnect/AbstractDripConnect.php:95
+msgid "Drip Account ID not found."
+msgstr ""
+
+#: src/connections/DripConnect/Connect.php:63
+msgid "First Name Field ID"
+msgstr ""
+
+#: src/connections/DripConnect/Connect.php:65
+msgid ""
+"If subscribers first names are missing, change this to the correct custom "
+"field ID. %sLearn more%s"
+msgstr ""
+
+#: src/connections/DripConnect/Connect.php:72
+msgid "Last Name Field ID"
+msgstr ""
+
+#: src/connections/DripConnect/Connect.php:74
+msgid ""
+"If subscribers lat names are missing, change this to the correct custom "
+"field ID. %sLearn more%s"
+msgstr ""
+
+#: src/connections/DripConnect/Connect.php:117
+msgid "Enable Double Optin"
+msgstr ""
+
+#: src/connections/DripConnect/Connect.php:118
+msgid ""
+"Double optin requires users to confirm their email address before being "
+"added to your campaign (recommended)."
+msgstr ""
+
+#: src/connections/DripConnect/Connect.php:124
+msgid ""
+"Upgrade to %sMailOptin Premium%s to enable Drip %sdouble optin%s, apply tags "
+"to subscribers and get loads of other conversion features."
+msgstr ""
+
+#: src/connections/DripConnect/Connect.php:150
+msgid "Drip"
+msgstr ""
+
+#: src/connections/DripConnect/ConnectSettingsPage.php:22
+msgid "Drip Connection"
+msgstr ""
+
+#: src/connections/DripConnect/ConnectSettingsPage.php:27
+msgid "Enter API Token"
+msgstr ""
+
+#: src/connections/DripConnect/ConnectSettingsPage.php:29
+msgid "Log in to your %sDrip account%s to get your api token."
+msgstr ""
+
+#: src/connections/DripConnect/ConnectSettingsPage.php:36
+msgid "Enter Account ID"
+msgstr ""
+
+#: src/connections/DripConnect/ConnectSettingsPage.php:38
+msgid ""
+"Log in to your %sDrip account%s to get your \"account id\" at \"General Info"
+"\" settings."
+msgstr ""
+
+#: src/connections/ElementorConnect/Connect.php:53
+msgid "Elementor"
+msgstr ""
+
+#: src/connections/ElementorConnect/ConnectSettingsPage.php:23
+msgid "Elementor Connection"
+msgstr ""
+
+#: src/connections/ElementorConnect/ConnectSettingsPage.php:27
+msgid "Elementor Integration"
+msgstr ""
+
+#: src/connections/ElementorConnect/ConnectSettingsPage.php:29
+msgid ""
+"Check this to enable MailOptin integration with Elementor WordPress page "
+"builder. %sLearn More%s"
+msgstr ""
+
+#: src/connections/ElementorConnect/Elementor.php:16
+#: src/connections/ElementorConnect/Elementor.php:60
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:25
+#: src/core/src/OptinForms/SidebarWidgets.php:20
+msgid "MailOptin"
+msgstr ""
+
+#: src/connections/ElementorConnect/Elementor.php:36
+#: src/core/src/Admin/SettingsPage/LeadBank.php:19
+msgid "Lead Bank"
+msgstr ""
+
+#: src/connections/ElementorConnect/Elementor.php:70
+msgid "Select Email Service"
+msgstr ""
+
+#: src/connections/ElementorConnect/Elementor.php:79
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:270
+msgid "Select Email List"
+msgstr ""
+
+#: src/connections/ElementorConnect/Elementor.php:127
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: src/connections/ElementorConnect/Elementor.php:131
+msgid ""
+"You are limited to %s subscribers to your email list per month. Upgrade to "
+"Premium for %sunlimited%s."
+msgstr ""
+
+#: src/connections/ElementorConnect/Elementor.php:138
+msgid "Go Premium Now"
+msgstr ""
+
+#: src/connections/ElementorConnect/Elementor.php:167
+msgid "Elementor Form"
+msgstr ""
+
+#: src/connections/EmailOctopusConnect/AbstractEmailOctopusConnect.php:49
+msgid "EmailOctopus API key not found."
+msgstr ""
+
+#: src/connections/EmailOctopusConnect/Connect.php:41
+msgid "EmailOctopus"
+msgstr ""
+
+#: src/connections/EmailOctopusConnect/ConnectSettingsPage.php:23
+msgid "EmailOctopus Connection"
+msgstr ""
+
+#: src/connections/EmailOctopusConnect/ConnectSettingsPage.php:30
+msgid ""
+"Log in to your %1$sEmailOctopus account%3$s and visit the %2$sAPI%3$s page "
+"to get your API Key."
+msgstr ""
+
+#: src/connections/GetResponseConnect/AbstractGetResponseConnect.php:52
+msgid "GetResponse API key not found."
+msgstr ""
+
+#: src/connections/GetResponseConnect/Connect.php:41
+msgid "GetResponse"
+msgstr ""
+
+#: src/connections/GetResponseConnect/Connect.php:133
+msgid ""
+"Please <a href=\"%s\">activate your license key</a> to receive updates for "
+"<strong>%s</strong>. <a href=\"%s\" target=\"_blank\">Help</a>"
+msgstr ""
+
+#: src/connections/GetResponseConnect/ConnectSettingsPage.php:46
+msgid "GetResponse Connection"
+msgstr ""
+
+#: src/connections/GetResponseConnect/ConnectSettingsPage.php:53
+msgid "Log in to your %sGetResponse account%s to get your API Key."
+msgstr ""
+
+#: src/connections/GetResponseConnect/ConnectSettingsPage.php:60
+msgid "GetResponse360 Account"
+msgstr ""
+
+#: src/connections/GetResponseConnect/ConnectSettingsPage.php:61
+msgid "Check this only if you are a GetResponse360 customer."
+msgstr ""
+
+#: src/connections/GetResponseConnect/ConnectSettingsPage.php:65
+msgid "GetResponse360 Registered Domain"
+msgstr ""
+
+#: src/connections/GetResponseConnect/ConnectSettingsPage.php:66
+msgid "Enter your GetResponse360 account registered domain."
+msgstr ""
+
+#: src/connections/GetResponseConnect/ConnectSettingsPage.php:70
+msgid "GetResponse360 Country"
+msgstr ""
+
+#: src/connections/GetResponseConnect/ConnectSettingsPage.php:73
+#: src/core/src/Functions/countries.php:188
+msgid "Poland"
+msgstr ""
+
+#: src/connections/GetResponseConnect/ConnectSettingsPage.php:74
+msgid "Others"
+msgstr ""
+
+#: src/connections/GetResponseConnect/ConnectSettingsPage.php:76
+msgid "Select country your GetResponse360 account is associated with."
+msgstr ""
+
+#: src/connections/GoogleAnalytics.php:26
+msgid "Google Analytics"
+msgstr ""
+
+#: src/connections/GoogleAnalytics.php:32
+msgid "Google Analytics integration is not available on your plan."
+msgstr ""
+
+#: src/connections/GoogleAnalytics.php:34
+#: src/connections/PolylangConnect/ConnectSettingsPage.php:33
+msgid "Upgrade Now!"
+msgstr ""
+
+#: src/connections/KlaviyoConnect/AbstractKlaviyoConnect.php:49
+msgid "Klaviyo API Key not found."
+msgstr ""
+
+#: src/connections/KlaviyoConnect/Connect.php:49
+msgid "Klaviyo"
+msgstr ""
+
+#: src/connections/KlaviyoConnect/Connect.php:78
+#: src/connections/MailChimpConnect/Connect.php:378
+#: src/connections/MailsterConnect/Connect.php:167
+msgid "Disable Double Optin"
+msgstr ""
+
+#: src/connections/KlaviyoConnect/Connect.php:79
+#: src/connections/MailChimpConnect/Connect.php:379
+msgid ""
+"Double optin requires users to confirm their email address before they are "
+"added or subscribed (recommended)."
+msgstr ""
+
+#: src/connections/KlaviyoConnect/Connect.php:85
+msgid ""
+"%sMailOptin Premium%s allows you disable double optin and save leads data "
+"such as referrer, conversion page, user agent, IP address and optin campaign "
+"to Klaviyo"
+msgstr ""
+
+#: src/connections/KlaviyoConnect/Connect.php:165
+msgid "Job Title"
+msgstr ""
+
+#: src/connections/KlaviyoConnect/Connect.php:167
+#: src/connections/MailerliteConnect/Connect.php:106
+#: src/core/src/Admin/SettingsPage/Settings.php:175
+msgid "City"
+msgstr ""
+
+#: src/connections/KlaviyoConnect/Connect.php:168
+#: src/connections/MailerliteConnect/Connect.php:108
+msgid "State"
+msgstr ""
+
+#: src/connections/KlaviyoConnect/Connect.php:169
+#: src/connections/MailerliteConnect/Connect.php:105
+#: src/core/src/Admin/SettingsPage/Settings.php:187
+msgid "Country"
+msgstr ""
+
+#: src/connections/KlaviyoConnect/Connect.php:170
+msgid "ZIP or Postal Code"
+msgstr ""
+
+#: src/connections/KlaviyoConnect/Connect.php:171
+msgid "Photo URL"
+msgstr ""
+
+#: src/connections/KlaviyoConnect/Connect.php:184
+msgid ""
+"You can only map to Klaviyo special identify properties. Custom fields not "
+"mapped will be added as custom properties. <a target=\"_blank\" href=\"%s"
+"\">Learn more</a>"
+msgstr ""
+
+#: src/connections/KlaviyoConnect/ConnectSettingsPage.php:22
+msgid "Klaviyo Connection"
+msgstr ""
+
+#: src/connections/KlaviyoConnect/ConnectSettingsPage.php:29
+msgid "Log in to your %sKlaviyo account%s to get your api key."
+msgstr ""
+
+#: src/connections/KlaviyoConnect/SendCampaign.php:59
+msgid "Template: "
+msgstr ""
+
+#: src/connections/MailChimpConnect/AbstractMailChimpConnect.php:92
+#: src/connections/MailChimpConnect/AbstractMailChimpConnect.php:112
+msgid "MailChimp API key not found."
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:107
+msgid "First Name Merge Tag"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:109
+msgid ""
+"If subscribers first names are missing, change this to the correct merge "
+"tag. %sLearn more%s"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:116
+msgid "Last Name Merge Tag"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:118
+msgid ""
+"If subscribers lat names are missing, change this to the correct merge tag. "
+"%sLearn more%s"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:135
+msgid "MailChimp"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:306
+msgid "Select Your Group"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:313
+msgid "You did not select any group"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:369
+msgid "Tags"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:371
+msgid "Comma-separated list of tags to assign to a new subscriber in MailChimp"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:384
+msgid "Group Segmentation"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:391
+msgid "Automatic"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:392
+msgid "User Input"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:395
+msgid "Segmentation Method"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:396
+msgid "Select how Segmentation is performed."
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:403
+msgid "Checkboxes"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:404
+msgid "Radio Buttons"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:407
+msgid "Choice Type"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:408
+msgid "Choose how users will select groups to subscribe to."
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:420
+#: src/connections/MailChimpConnect/Connect.php:755
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Integration_Repeater_Control.php:249
+msgid "No MailChimp group found. Try selecting another email list."
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:436
+msgid "Field Label"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:443
+msgid "Field Color"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:450
+msgid "Field Font"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:457
+msgid "Inline"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:458
+msgid "Block"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:461
+msgid "Display Style"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:468
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1190
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1214
+msgid "Left"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:469
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1191
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1215
+msgid "Center"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:470
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1192
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1216
+msgid "Right"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:473
+msgid "Display Alignment"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:480
+msgid "Group Selection Required?"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:481
+msgid ""
+"Toggle ON if you want visitors to select at least one group before they are "
+"subscribed."
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:488
+msgid "Group Selection Error"
+msgstr ""
+
+#: src/connections/MailChimpConnect/Connect.php:489
+msgid ""
+"Error message displayed when a visitor failed to select at least a group."
+msgstr ""
+
+#: src/connections/MailChimpConnect/ConnectSettingsPage.php:53
+msgid "MailChimp Segment"
+msgstr ""
+
+#: src/connections/MailChimpConnect/ConnectSettingsPage.php:56
+msgid ""
+"Select MailChimp segment to send to. Leave empty to send to all list "
+"subscribers."
+msgstr ""
+
+#: src/connections/MailChimpConnect/ConnectSettingsPage.php:75
+msgid "MailChimp Connection"
+msgstr ""
+
+#: src/connections/MailChimpConnect/ConnectSettingsPage.php:82
+msgid "Log in to your %sMailChimp account%s to get your API Key."
+msgstr ""
+
+#: src/connections/MailPoetConnect/Connect.php:47
+msgid "MailPoet"
+msgstr ""
+
+#: src/connections/MailPoetConnect/Connect.php:176
+msgid "Disable Welcome Email"
+msgstr ""
+
+#: src/connections/MailPoetConnect/Connect.php:178
+msgid ""
+"Welcome Emails is an email (or series of emails) already created to be "
+"delivered to new subscribers."
+msgstr ""
+
+#: src/connections/MailPoetConnect/Connect.php:185
+msgid "Upgrade to %sMailOptin Premium%s to disable welcome email."
+msgstr ""
+
+#: src/connections/MailPoetConnect/ConnectSettingsPage.php:24
+#: src/connections/MailPoetConnect/ConnectSettingsPage.php:38
+msgid "MailPoet Connection"
+msgstr ""
+
+#: src/connections/MailPoetConnect/ConnectSettingsPage.php:30
+msgid ""
+"%sThis integration is enabled because MailPoet is currently installed and "
+"activated.%s"
+msgstr ""
+
+#: src/connections/MailPoetConnect/ConnectSettingsPage.php:43
+msgid ""
+"%sThis integration is disabled because you currently do not have MailPoet "
+"installed and activated.%s"
+msgstr ""
+
+#: src/connections/MailerliteConnect/AbstractMailerliteConnect.php:50
+msgid "MailerLite API key not found."
+msgstr ""
+
+#: src/connections/MailerliteConnect/Connect.php:41
+msgid "MailerLite"
+msgstr ""
+
+#: src/connections/MailerliteConnect/Connect.php:104
+msgid "Company"
+msgstr ""
+
+#: src/connections/MailerliteConnect/Connect.php:109
+msgid "ZIP"
+msgstr ""
+
+#: src/connections/MailerliteConnect/ConnectSettingsPage.php:23
+msgid "MailerLite Connection"
+msgstr ""
+
+#: src/connections/MailerliteConnect/ConnectSettingsPage.php:30
+msgid "Log in to your %sMailerLite account%s to get your API Key."
+msgstr ""
+
+#: src/connections/MailsterConnect/Connect.php:46
+msgid "Mailster"
+msgstr ""
+
+#: src/connections/MailsterConnect/Connect.php:168
+msgid ""
+"Double optin requires users to confirm their email address before they are "
+"added or subscribed."
+msgstr ""
+
+#: src/connections/MailsterConnect/Connect.php:174
+msgid "Upgrade to %sMailOptin Premium%s to disable Mailster %sdouble optin%s."
+msgstr ""
+
+#: src/connections/MailsterConnect/ConnectSettingsPage.php:24
+#: src/connections/MailsterConnect/ConnectSettingsPage.php:38
+msgid "Mailster Connection"
+msgstr ""
+
+#: src/connections/MailsterConnect/ConnectSettingsPage.php:29
+msgid ""
+"%sThis integration is enabled because Mailster is currently installed and "
+"activated.%s"
+msgstr ""
+
+#: src/connections/MailsterConnect/ConnectSettingsPage.php:43
+msgid ""
+"%sThis integration is disabled because you currently do not have Mailster "
+"installed and activated.%s"
+msgstr ""
+
+#: src/connections/PolylangConnect/Connect.php:40
+#: src/connections/PolylangConnect/ConnectSettingsPage.php:25
+msgid "Polylang"
+msgstr ""
+
+#: src/connections/PolylangConnect/ConnectSettingsPage.php:31
+msgid "Polylang integration is a paid feature of MailOptin."
+msgstr ""
+
+#: src/connections/PolylangConnect/ConnectSettingsPage.php:44
+#: src/connections/PolylangConnect/ConnectSettingsPage.php:58
+msgid "Polylang Connection"
+msgstr ""
+
+#: src/connections/PolylangConnect/ConnectSettingsPage.php:49
+msgid ""
+"%sThis integration is enabled because Polylang plugin is currently installed "
+"and activated.%s"
+msgstr ""
+
+#: src/connections/PolylangConnect/ConnectSettingsPage.php:63
+msgid ""
+"%sThis integration is disabled because you currently do not have Polylang "
+"plugin installed and activated.%s"
+msgstr ""
+
+#: src/connections/RegisteredUsersConnect/Connect.php:54
+msgid "Registered Users"
+msgstr ""
+
+#: src/connections/RegisteredUsersConnect/Connect.php:90
+msgid "Restrict to User Role"
+msgstr ""
+
+#: src/connections/RegisteredUsersConnect/Connect.php:93
+msgid ""
+"Select user role(s) that newsletter will only be delivered to. Leave empty "
+"to send to all roles."
+msgstr ""
+
+#: src/connections/RegisteredUsersConnect/WP_Mail_BG_Process.php:116
+msgid "Email failed to be delivered"
+msgstr ""
+
+#: src/connections/SendinblueConnect/AbstractSendinblueConnect.php:92
+msgid "SendinBlue API Key not found."
+msgstr ""
+
+#: src/connections/SendinblueConnect/Connect.php:59
+msgid "First Name Attribute"
+msgstr ""
+
+#: src/connections/SendinblueConnect/Connect.php:61
+msgid ""
+"If subscribers first names are missing, change this to the correct attribute "
+"name. %sLearn more%s"
+msgstr ""
+
+#: src/connections/SendinblueConnect/Connect.php:68
+msgid "Last Name Attribute"
+msgstr ""
+
+#: src/connections/SendinblueConnect/Connect.php:70
+msgid ""
+"If subscribers lat names are missing, change this to the correct attribute "
+"name. %sLearn more%s"
+msgstr ""
+
+#: src/connections/SendinblueConnect/Connect.php:87
+msgid "SendinBlue"
+msgstr ""
+
+#: src/connections/SendinblueConnect/ConnectSettingsPage.php:22
+msgid "SendinBlue Connection"
+msgstr ""
+
+#: src/connections/SendinblueConnect/ConnectSettingsPage.php:29
+msgid "Log in to your %sSendinBlue account%s to get your api key."
+msgstr ""
+
+#: src/connections/SendlaneConnect/AbstractSendlaneConnect.php:51
+msgid "Sendlane API Key not found."
+msgstr ""
+
+#: src/connections/SendlaneConnect/AbstractSendlaneConnect.php:55
+msgid "Sendlane Hash Key not found."
+msgstr ""
+
+#: src/connections/SendlaneConnect/AbstractSendlaneConnect.php:59
+msgid "Sendlane Domain not found."
+msgstr ""
+
+#: src/connections/SendlaneConnect/Connect.php:61
+msgid ""
+"Enter comma-separated list of tags to assign to subscribers. This require "
+"\"Single Opt In confirmation\" to be enabled for your account. Contact "
+"Sendlane to enable this for you."
+msgstr ""
+
+#: src/connections/SendlaneConnect/Connect.php:67
+msgid ""
+"Upgrade to %sMailOptin Premium%s to apply tags to subscribers and get loads "
+"of other conversion features."
+msgstr ""
+
+#: src/connections/SendlaneConnect/Connect.php:93
+msgid "Sendlane"
+msgstr ""
+
+#: src/connections/SendlaneConnect/ConnectSettingsPage.php:22
+msgid "Sendlane Connection"
+msgstr ""
+
+#: src/connections/SendlaneConnect/ConnectSettingsPage.php:29
+msgid ""
+"Log in to your %sSendlane account%s, go to \"Account Settings\" to get your "
+"API key."
+msgstr ""
+
+#: src/connections/SendlaneConnect/ConnectSettingsPage.php:37
+msgid "Enter Hash Key"
+msgstr ""
+
+#: src/connections/SendlaneConnect/ConnectSettingsPage.php:39
+msgid ""
+"Log in to your %sSendlane account%s, go to \"Account Settings\" to get your "
+"hash key."
+msgstr ""
+
+#: src/connections/SendlaneConnect/ConnectSettingsPage.php:46
+msgid "Enter Sendlane Domain"
+msgstr ""
+
+#: src/connections/SendlaneConnect/ConnectSettingsPage.php:48
+msgid ""
+"Log in to your %sSendlane account%s, go to \"Account Settings\" to get your "
+"sendlane domain."
+msgstr ""
+
+#: src/connections/SendyConnect/Connect.php:51
+msgid "Sendy"
+msgstr ""
+
+#: src/connections/SendyConnect/ConnectSettingsPage.php:34
+msgid "Sendy Campaign Query String"
+msgstr ""
+
+#: src/connections/SendyConnect/ConnectSettingsPage.php:37
+msgid ""
+"Query string to append to all links in newsletter sent to Sendy email "
+"service. E.g Google Analytics tracking. Don't include '?' in your query "
+"string."
+msgstr ""
+
+#: src/connections/SendyConnect/ConnectSettingsPage.php:54
+msgid "Sendy Connection"
+msgstr ""
+
+#: src/connections/SendyConnect/ConnectSettingsPage.php:59
+msgid "API Key"
+msgstr ""
+
+#: src/connections/SendyConnect/ConnectSettingsPage.php:60
+msgid "Enter your Sendy API key."
+msgstr ""
+
+#: src/connections/SendyConnect/ConnectSettingsPage.php:64
+msgid "Installation URL"
+msgstr ""
+
+#: src/connections/SendyConnect/ConnectSettingsPage.php:65
+msgid "Enter your Sendy installation URL."
+msgstr ""
+
+#: src/connections/SendyConnect/ConnectSettingsPage.php:69
+msgid "Email List"
+msgstr ""
+
+#: src/connections/SendyConnect/ConnectSettingsPage.php:74
+#: src/connections/SendyConnect/ConnectSettingsPage.php:75
+msgid "List Name"
+msgstr ""
+
+#: src/connections/SendyConnect/ConnectSettingsPage.php:82
+#: src/connections/SendyConnect/ConnectSettingsPage.php:83
+msgid "List ID"
+msgstr ""
+
+#: src/connections/SendyConnect/ConnectSettingsPage.php:87
+msgid "Enter the names and IDs of your Sendy email list"
+msgstr ""
+
+#: src/core/src/Admin/AdminNotices.php:54
+msgid "Optin campaigns cache successfully cleared."
+msgstr ""
+
+#: src/core/src/Admin/AdminNotices.php:72
+msgid "There was an error fetching email campaign template dependency."
+msgstr ""
+
+#: src/core/src/Admin/AdminNotices.php:90
+msgid ""
+"There was an error fetching optin dependency. Try again or select another "
+"template."
+msgstr ""
+
+#: src/core/src/Admin/AdminNotices.php:106
+msgid "Email campaigned resent."
+msgstr ""
+
+#: src/core/src/Admin/AdminNotices.php:126
+msgid ""
+"MailOptin branding is now included on all optin forms unless you explicitly "
+"disabled it at \"Configuration\" panel in form builder. %sLearn more%s"
+msgstr ""
+
+#: src/core/src/Admin/AdminNotices.php:168
+msgid ""
+"Hey, I noticed you have been using MailOptin for at least 7 days now - "
+"that's awesome! Could you please do me a BIG favor and give it a %1$s5-star "
+"rating on WordPress?%2$s This will help us spread the word and boost our "
+"motivation - thanks!"
+msgstr ""
+
+#: src/core/src/Admin/AdminNotices.php:172
+msgid "Sure! I'd love to give a review"
+msgstr ""
+
+#: src/core/src/Admin/AdminNotices.php:174
+msgid "Dimiss Forever"
+msgstr ""
+
+#: src/core/src/Admin/AdminNotices.php:200
+msgid ""
+"Upgrade to %s now to create multiple email campaigns with advance targeting "
+"and availability of your email list subscribers as recipients."
+msgstr ""
+
+#: src/core/src/Admin/AdminNotices.php:201
+msgid "MailOptin premium"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Controls_Tab_Toggle.php:19
+#: src/core/src/Admin/SettingsPage/Settings.php:70
+msgid "General"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Controls_Tab_Toggle.php:20
+msgid "Style"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Controls_Tab_Toggle.php:21
+msgid "Advance"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_EA_CPT_Control_Trait.php:35
+msgid "Restrict to %s"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:72
+msgid "Minutes"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:73
+msgid "Hours"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:74
+msgid "Days"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:94
+msgid "after publishing"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:106
+msgid "Every Day"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:107
+msgid "Every Week"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:108
+msgid "Every Month"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:112
+msgid "12:00 am"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:113
+msgid "1:00 am"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:114
+msgid "2:00 am"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:115
+msgid "3:00 am"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:116
+msgid "4:00 am"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:117
+msgid "5:00 am"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:118
+msgid "6:00 am"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:119
+msgid "7:00 am"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:120
+msgid "8:00 am"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:121
+msgid "9:00 am"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:122
+msgid "10:00 am"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:123
+msgid "11:00 am"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:124
+msgid "12:00 pm"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:125
+msgid "1:00 pm"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:126
+msgid "2:00 pm"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:127
+msgid "3:00 pm"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:128
+msgid "4:00 pm"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:129
+msgid "5:00 pm"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:130
+msgid "6:00 pm"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:131
+msgid "7:00 pm"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:132
+msgid "8:00 pm"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:133
+msgid "9:00 pm"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:134
+msgid "10:00 pm"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:135
+msgid "11:00 pm"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:139
+msgid "Sunday"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:140
+msgid "Monday"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:141
+msgid "Tuesday"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:142
+msgid "Wednesday"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:143
+msgid "Thursday"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:144
+msgid "Friday"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:145
+msgid "Saturday"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:149
+msgid "1st"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:150
+msgid "2nd"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:151
+msgid "3rd"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:152
+msgid "4th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:153
+msgid "5th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:154
+msgid "6th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:155
+msgid "7th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:156
+msgid "8th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:157
+msgid "9th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:158
+msgid "10th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:159
+msgid "11th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:160
+msgid "12th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:161
+msgid "13th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:162
+msgid "14th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:163
+msgid "15th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:164
+msgid "16th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:165
+msgid "17th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:166
+msgid "18th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:167
+msgid "19th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:168
+msgid "20th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:169
+msgid "21st"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:170
+msgid "22nd"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:171
+msgid "23rd"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:172
+msgid "24th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:173
+msgid "25th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:174
+msgid "26th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:175
+msgid "27th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Email_Schedule_Time_Fields_Control.php:176
+msgid "28th"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:65
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Font_Stack_Control.php:20
+msgid "System Fonts"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:66
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Font_Stack_Control.php:21
+msgid "Google Fonts"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:75
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:400
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Font_Stack_Control.php:32
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Google_Font_Control.php:36
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Integration_Repeater_Control.php:330
+msgid "Inherit from Theme"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:132
+#: src/core/src/Admin/SettingsPage/Email_Campaign_List.php:337
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:424
+msgid "Name"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:139
+msgid "Hide Name Field"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:145
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:204
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:558
+msgid "Title"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:149
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:208
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:560
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:232
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:336
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:440
+msgid "Color"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:153
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:212
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:561
+msgid "Background"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:157
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:216
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:562
+msgid "Font"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:162
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:563
+msgid "Make Field Required"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:166
+msgid "Activate to make name field required."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:198
+msgid "Email"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:533
+#: src/core/src/Admin/Customizer/CustomizerTrait.php:199
+msgid "Text"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:534
+msgid "Textarea"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:537
+#: src/core/src/RegisterScripts.php:144
+msgid "Field %s"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:559
+msgid "Type"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:567
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Integration_Repeater_Control.php:504
+#: src/core/src/Admin/SettingsPage/Campaign_Log_List.php:197
+#: src/core/src/Admin/SettingsPage/Campaign_Log_List.php:323
+#: src/core/src/Admin/SettingsPage/Email_Campaign_List.php:241
+#: src/core/src/Admin/SettingsPage/Email_Campaign_List.php:277
+#: src/core/src/Admin/SettingsPage/Email_Campaign_List.php:368
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:481
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:580
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:697
+msgid "Delete"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:576
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Integration_Repeater_Control.php:535
+msgid "Collapse all"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:577
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Integration_Repeater_Control.php:536
+msgid "Expand all"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:589
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:161
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1076
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1252
+msgid "Premium Version Available"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:593
+msgid ""
+"Upgrade to %sMailOptin Premium%s to add custom fields to capture additional "
+"information from subscribers."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Fields_Repeater_Control.php:617
+msgid "Add Custom Field"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Integration_Repeater_Control.php:471
+msgid "New Integration"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Integration_Repeater_Control.php:497
+msgid "Email Provider"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Integration_Repeater_Control.php:498
+#: src/core/src/Admin/Customizer/CustomizerTrait.php:213
+msgid "Email Provider List"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Integration_Repeater_Control.php:505
+msgid "Advanced"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Integration_Repeater_Control.php:525
+msgid "Map Custom Fields"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Integration_Repeater_Control.php:558
+msgid "Add Another Integration"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Submit_Button_Control.php:21
+msgid "Send"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Submit_Button_Control.php:24
+msgid "Email sent. Go check your message."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Tinymce_Expanded_Editor.php:16
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Tinymce_Expanded_Editor.php:28
+msgid "Open content editor"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomControls/WP_Customize_Tinymce_Expanded_Editor.php:17
+msgid "Close content editor"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomizerTrait.php:13
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:471
+msgid "Save Changes"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomizerTrait.php:16
+msgid "Saved"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomizerTrait.php:200
+msgid "Visual"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomizerTrait.php:201
+msgid "Add Media"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomizerTrait.php:210
+msgid "ConvertKit Form"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomizerTrait.php:211
+msgid "Drip Campaign"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/CustomizerTrait.php:212
+msgid "GetResponse Campaign"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/AbstractCustomizer.php:36
+msgid "Round up of Latest Posts"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/AbstractCustomizer.php:331
+msgid "View this email in your browser"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/AbstractCustomizer.php:346
+msgid "Read more"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/AbstractCustomizer.php:353
+msgid "If you do not want to receive emails from us, you can"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/AbstractCustomizer.php:354
+msgid "unsubscribe"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/Customizer.php:125
+msgid "Toggle to activate and deactivate email automation."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/Customizer.php:199
+msgid "View available tags"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/Customizer.php:200
+#: src/core/src/Admin/Customizer/EmailCampaign/Customizer.php:421
+msgid "Preview"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/Customizer.php:201
+msgid "Code Editor"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/Customizer.php:230
+#: src/core/src/Admin/SettingsPage/Settings.php:143
+msgid "Email Automation"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/Customizer.php:250
+msgid ""
+"The customizer allows you to design, preview and set up to email campaigns."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/Customizer.php:371
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:712
+msgid "Check out MailOptin Premium!"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/Customizer.php:382
+#: src/core/src/Admin/SettingsPage/ProUpgrade.php:71
+#: src/core/src/Admin/SettingsPage/Settings.php:28
+#: src/core/src/Admin/SettingsPage/Settings.php:200
+msgid "Settings"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/Customizer.php:390
+msgid "View Available Tags"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/Customizer.php:396
+msgid "Body"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/Customizer.php:402
+msgid "Header"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/Customizer.php:408
+msgid "Content"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/Customizer.php:414
+msgid "Footer"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/Customizer.php:427
+msgid "Send Test Email"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/Customizer.php:479
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:878
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:991
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1111
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1308
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:138
+msgid "Background Color"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:107
+msgid "Available placeholders for use in subject line:%s %s"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:109
+msgid " title of new published post."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:149
+#: src/core/src/Admin/SettingsPage/AddEmailCampaign.php:46
+msgid "Automation Title"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:159
+msgid "Email Subject"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:162
+msgid "Enter a subject for the email."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:174
+msgid "Maximum Number of Posts"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:190
+msgid "Content Length"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:193
+msgid ""
+"Number of words to limit the post content to. Set to \"0\" for full post "
+"content."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:200
+msgid "Select Post Type"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:203
+msgid "WordPress Posts"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:204
+msgid ""
+"By default, automation works with WordPress posts. To make it work with a "
+"custom post type instead? Select one."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:222
+msgid "Restrict to Post Categories"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:223
+msgid "Only include post that has either of the selected categories."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:235
+msgid "Restrict to Post Tags"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:236
+msgid "Only include post that has either of the selected tags."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:248
+msgid "Recipient"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:259
+msgid "Select Connection"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:263
+msgid "Choose the email service or connection that newsletter will be sent to."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:274
+msgid "Email list that newsletter will be sent to."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:282
+msgid "Schedule"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:294
+msgid "Send Immediately"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:297
+msgid "Enable to send newsletter immediately after a post is published."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:306
+msgid "Send Email"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:320
+msgid "When should we send?"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:366
+msgid ""
+"Upgrade to %sMailOptin Pro%s to support custom post types and restrict by "
+"post categories, tags and custom taxonomies."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:390
+msgid ""
+"%sUpgrade your MailOptin plan%s to send email campaigns directly to your "
+"list in MailChimp, Campaign Monitor, Aweber, Constant Contact, Drip, "
+"MailerLite, ConvertKit etc."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:482
+msgid "Post Tags"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:493
+msgid "Post Title"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:504
+msgid "Post Content"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:515
+msgid "Post Excerpt"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:526
+msgid "Feature Image"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:529
+msgid "HTML image of post's featured image."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:538
+msgid "Feature Image URL"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:541
+msgid "URL of post's featured image."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:550
+msgid "Post URL"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:561
+msgid "Post Categories"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:565
+msgid ""
+"Comma separated list of post categories. Set \"link\" attribute to false to "
+"remove the link."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:573
+msgid "Post Taxonomy Terms"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:577
+msgid ""
+"Comma separated list of post terms of a taxonomy. Set \"tax\" attribute to "
+"the taxonomy name. Set \"link\" attribute to false to remove the link."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:585
+msgid "Post Date"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:589
+msgid "Publish date of the post in your local time set in WordPress."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:597
+msgid "Post Date in GMT"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:601
+msgid "Publish date of the post in GMT."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:609
+msgid "Post Meta Value"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:613
+msgid "Post meta value of a certain \"meta_key\"."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:621
+msgid "Post ID"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:632
+msgid "Author Name"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:635
+msgid "Set \"link\" attribute to false to remove the link to author's website."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:644
+msgid "Author Website"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:655
+msgid "Author Email Address"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:666
+msgid "Campaign Tags"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:677
+msgid "Unsubscribe URL"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:681
+msgid "URL to unsubscribe. This must be in your email template."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:689
+msgid "Web Version URL"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:693
+msgid "URL to the web version."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:701
+msgid "Company Name"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:706
+msgid ""
+"Your company name as defined in <a target=\"_blank\" href=\"%s\">settings</a>"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:716
+msgid "Company Address"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:721
+msgid ""
+"Your company address as defined in <a target=\"_blank\" href=\"%s"
+"\">settings</a>"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:731
+msgid "Company Address 2"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:736
+msgid ""
+"Company address 2 defined in <a target=\"_blank\" href=\"%s\">settings</a>"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:746
+msgid "Company City"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:751
+msgid ""
+"Your company city as defined in <a target=\"_blank\" href=\"%s\">settings</a>"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:761
+msgid "Company State"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:766
+msgid ""
+"Your company state as defined in <a target=\"_blank\" href=\"%s\">settings</"
+"a>"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:776
+msgid "Company Zip Code"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:781
+msgid ""
+"Zip or postal code as defined in <a target=\"_blank\" href=\"%s\">settings</"
+"a>"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:791
+msgid "Company Country"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:796
+msgid ""
+"Your company country defined in <a target=\"_blank\" href=\"%s\">settings</a>"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:839
+msgid "Preview Post"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:842
+msgid "Select a post to use as preview"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:894
+msgid ""
+"Upgrade to %sMailOptin Premium%s to access the Custom CSS feature that will "
+"allow you customize this template to your heart content."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:957
+msgid "Remove Header"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:969
+msgid "Logo"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:975
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:980
+msgid "Select Logo"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:976
+msgid "Change Logo"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:977
+msgid "Default"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:978
+msgid "Remove"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:979
+msgid "No logo selected"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:981
+msgid "Choose Logo"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1002
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1122
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1319
+msgid "Text Color"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1011
+msgid "Header Text"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1012
+msgid "This is used when template logo is not set."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1021
+msgid "Web Version Link Label"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1032
+msgid "Web Version Link Color"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1089
+msgid "Before Main Content"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1100
+msgid "After Main Content"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1133
+msgid "Remove Featured Image"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1143
+msgid "Fallback Featured Image"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1146
+msgid "Enter URL of an image to use when a post lacks a feature image."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1154
+msgid "Title Font Size"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1171
+msgid "Body Font Size"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1185
+msgid "Content Alignment"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1200
+msgid "Remove Read More Button"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1209
+msgid "Read More Button Alignment"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1224
+msgid "Read More Button Background Color"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1234
+msgid "Read More Button Text Color"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1241
+msgid "Read More Button Label"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1296
+msgid "Remove Footer"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1330
+msgid "Footer Font Size"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1345
+msgid "Copyright Line"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1354
+msgid "Mailing Address"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1363
+msgid "Unsubscribe Line"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1372
+msgid "Unsubscribe Link Label"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerControls.php:1384
+msgid "Unsubscribe Link Color"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/CustomizerSettings.php:294
+msgid "Email template cannot be empty."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/EmailCampaign/EC_Customizer_Setting.php:39
+#: src/core/src/Admin/Customizer/EmailCampaign/EC_Customizer_Setting.php:45
+msgid "You must supply a valid numeric value."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/AbstractCustomizer.php:50
+msgid "Don't miss our update"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/AbstractCustomizer.php:57
+#: src/core/src/OptinForms/Sidebar/Gridgum.php:468
+msgid ""
+"Be the first to get latest updates and exclusive content straight to your "
+"email inbox."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/AbstractCustomizer.php:65
+#: src/core/src/OptinForms/Inpost/BareMetal.php:134
+#: src/core/src/OptinForms/Inpost/Elegance.php:134
+#: src/core/src/OptinForms/Lightbox/Elegance.php:144
+#: src/core/src/OptinForms/Sidebar/Lupin.php:134
+msgid "We promise not to spam you. You can unsubscribe at any time."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/AbstractCustomizer.php:70
+msgid "Please accept our terms."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/AbstractCustomizer.php:77
+msgid "Enter your name here..."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/AbstractCustomizer.php:82
+msgid "Enter your email address here..."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/AbstractCustomizer.php:86
+msgid "Subscribe Now"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/AbstractCustomizer.php:94
+msgid "Take Action Now!"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/AbstractCustomizer.php:110
+msgid ""
+"Thanks for subscribing! Please check your email for further instructions."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:153
+msgid "Toggle to activate and deactivate optin."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:406
+msgid "You haven't setup an integration"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:406
+msgid "Click me to do it now"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:407
+msgid "This optin campaign is not active"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:407
+msgid "Click me to activate it"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:430
+msgid "Optin Form"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:450
+msgid ""
+"The customizer allows you to make and preview changes to MailOptin powered "
+"optin forms."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:691
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:830
+msgid "Display Rules"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:692
+msgid "Configure how this optin campaign will be shown to visitors or users."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:724
+msgid "Design"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:734
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:218
+msgid "Headline"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:743
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:323
+msgid "Description"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:753
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:426
+msgid "Note"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:763
+msgid "Fields"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:773
+msgid "Configuration"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:783
+#: src/core/src/Admin/SettingsPage/Connections.php:50
+#: src/core/src/Admin/SettingsPage/Connections.php:122
+msgid "Integrations"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:791
+msgid "After Conversion"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:816
+msgid "Page Targeting"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/Customizer.php:822
+msgid "User Targeting"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:93
+msgid "Image"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:125
+msgid "Background Image"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:150
+msgid "Border Color"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:165
+msgid ""
+"Upgrade to %sMailOptin Premium%s for more customization options including "
+"feature to add your own custom CSS."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:206
+msgid "Hide Headline"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:243
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:347
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:451
+msgid "Font Family"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:255
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:265
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:275
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:359
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:369
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:379
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:463
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:473
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:483
+msgid "Font Size"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:311
+msgid "Hide Description"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:414
+msgid "Hide Note"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:493
+msgid "Close Optin on Click"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:497
+msgid ""
+"Activate if you want a click on \"note\" to close the optin form. "
+"Particularly useful if close icon is hidden. %sLearn More%s"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:508
+msgid "Enable Acceptance Checkbox"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:512
+msgid ""
+"Activate to display an acceptance checkbox that users have to check before "
+"they are subscribed. %sLearn More%s"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:522
+msgid "Checkbox Error Message"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:525
+msgid "Error message displayed when the acceptance checkbox is not checked."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:555
+msgid "Reveal Optin Form"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:556
+msgid "Navigate to URL"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:560
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1026
+msgid "Close optin"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:561
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1027
+msgid "Close optin and reload page"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:567
+msgid ""
+"Upgrade to %sMailOptin Premium%s to have the option to close, close and "
+"reload or reveal optin form when CTA button is clicked."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:598
+msgid "Submit Button"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:609
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:713
+msgid "Button Label"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:613
+msgid "The value/label of the submit button."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:620
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:725
+msgid "Button Color"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:624
+msgid "The text color for the submit button field."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:632
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:738
+msgid "Button Background"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:636
+msgid "The background color of the submit button."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:644
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:751
+msgid "Button Font"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:647
+msgid "The font family for the submit button field."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:665
+msgid "Display Only CTA Button"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:668
+msgid ""
+"Activate to hide opt-in form and display a call-to-action button instead."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:679
+msgid "Call-to-action Button"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:692
+msgid "Action After Button Click"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:701
+msgid "Enter URL"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:702
+msgid "URL should begin with http or https."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:717
+msgid "The value/label of the call-to-action button."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:729
+msgid "The text color for the call-to-action button field."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:742
+msgid "The background color of the call-to-action button."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:754
+msgid "The font family for the call-to-action button field."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:782
+msgid "Optin Campaign Name"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:790
+#: src/core/src/Admin/SettingsPage/OptinCampaigns.php:180
+msgid "Split Test Note"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:793
+#: src/core/src/Admin/SettingsPage/OptinCampaigns.php:182
+msgid "Useful for keeping track of changes between each split test you create."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:799
+msgid "Optin Form Position"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:802
+msgid "Select position within your post the optin form will be displayed."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:804
+msgid "Before Content"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:805
+msgid "After Content"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:812
+msgid "Bottom Right"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:812
+msgid "Bottom Left"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:813
+msgid "Slide-in Position"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:821
+msgid "Top"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:821
+msgid "Bottom"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:822
+msgid "Bar Position"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:832
+msgid "Sticky Bar?"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:835
+msgid "Check to make bar sticky."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:845
+msgid "Hide Close Button"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:855
+msgid "Cookie Duration"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:860
+msgid ""
+"The length of time before this optin will display again to the user once "
+"they exit this campaign (defaults to 30 days). %sSet to 0 to prevent cookies "
+"from being set.%s"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:867
+msgid "Success Cookie Duration"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:872
+msgid ""
+"The length of time before the optin will display again to the user once they "
+"successfully opt in to this campaign (defaults to value of exit cookie "
+"above). %sSet to 0 to prevent cookies from being set.%s"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:881
+msgid "Remove MailOptin Branding"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:883
+msgid "%sSet your affiliate link%s and make money with branding."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:967
+msgid ""
+"To store leads or subscribers in MailOptin without requiring an email "
+"service provider like MailChimp, %sUpgrade to premium%s now."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:987
+msgid ""
+"No integration or email provider has been connected to MailOptin. %sClick "
+"here%s to do that now."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1025
+msgid "Display success message."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1028
+msgid "Redirect to URL"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1042
+msgid "Success Action"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1045
+msgid "What to do after users subscribe."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1052
+msgid "Optin Success Message"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1060
+msgid "Redirect URL"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1064
+msgid ""
+"Specify a URL to redirect users to after opt-in. Must begin with http or "
+"https."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1079
+msgid ""
+"Upgrade to %sMailOptin Premium%s for autoresponder, pass lead data to "
+"redirect URL, send email notification and trigger success script after "
+"conversion."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1125
+msgid "Globally load optin"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1129
+msgid ""
+"The optin will be loaded on all pages of your website if activated. %sDo not "
+"activate%s if you want to load optin on specific areas of your site using "
+"the settings below."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1142
+msgid "Load optin exclusively on:"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1145
+msgid "Display the optin only on the selected posts and pages."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1159
+msgid "Front Page, Archive and Search Pages"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1162
+msgid "Display the optin on home front page, archive and search pages"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1172
+msgid "Load on post categories:"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1175
+msgid "Display the optin on posts that are in any of the selected categories."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1185
+msgid "Load on post tags:"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1188
+msgid "Display the optin on posts that are in any of the selected tags."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1198
+msgid "Load optin only on \"post types\":"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1201
+msgid "Display the optin only on the selected \"post types\"."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1211
+msgid "Never load optin on these posts:"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1214
+msgid "Select the posts this optin should never be loaded on."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1225
+msgid "Never load optin on these pages:"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1228
+msgid "Select the pages this optin should never be loaded on."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1239
+msgid "Never load optin on these CPT posts:"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1242
+msgid "Select \"custom post type\" posts this optin should never be loaded on."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1256
+msgid ""
+"Upgrade to %sMailOptin Premium%s to embed with shortcodes, get optin "
+"triggers such as %3$sExit Intent%4$s, %3$sPage views%4$s, %3$sTime on Site"
+"%4$s, %3$sAdBlock detection%4$s, %3$sReferral Detection%4$s, %3$sScroll "
+"trigger%4$s, powerful page-level targeting and display rules proven to boost "
+"conversions."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1313
+msgid "Who should see this optin?"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1316
+msgid "Decide who are able to see this optin."
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1318
+msgid "Show to all visitors and users"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1319
+msgid "Show to only logged-in users"
+msgstr ""
+
+#: src/core/src/Admin/Customizer/OptinForm/CustomizerControls.php:1320
+msgid "Show to only users not logged-in"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:24
+msgid "MailOptin WordPress Plugin"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:45
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:143
+msgid "Documentation"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:48
+msgid "Request Support"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:97
+#: src/core/src/Admin/SettingsPage/EmailCampaigns.php:50
+#: src/core/src/Admin/SettingsPage/EmailCampaigns.php:85
+#: src/core/src/Admin/SettingsPage/EmailCampaigns.php:111
+msgid "Email Automations"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:98
+#: src/core/src/Admin/SettingsPage/CampaignLog.php:40
+#: src/core/src/Admin/SettingsPage/CampaignLog.php:54
+msgid "Email Log"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:113
+msgid "Unlimited number of optin conversion."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:114
+msgid "More optin types e.g slide-in & top bar."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:115
+msgid "More newsletters type e.g email digest."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:116
+msgid "Ton of premium optin and email templates."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:117
+msgid "Optin triggers e.g Exit Intent, Scroll etc."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:118
+msgid "Actionable reporting & insights."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:119
+msgid "Lead Bank - conversion backup."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:120
+msgid "Wow your visitors with DisplayEffects."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:121
+msgid "Page level targeting."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:122
+msgid "And lots more."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:135
+msgid "For support, %sreach out to us%s."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:142
+msgid "Visit the %s for guidance."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:163
+msgid ""
+"Is this plugin useful for you? Leave a positive review on the plugin's <a "
+"href=\"%s\" target=\"_blank\">WordPress listing</a>"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AbstractSettingsPage.php:174
+msgid "<a href=\"%s\" target=\"_blank\">Share your thoughts on Twitter</a>"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddEmailCampaign.php:24
+#: src/core/src/Repositories/EmailCampaignRepository.php:25
+msgid "New Post Notification"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddEmailCampaign.php:25
+#: src/core/src/Repositories/EmailCampaignRepository.php:28
+msgid "Posts Email Digest"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddEmailCampaign.php:35
+#: src/core/src/Admin/SettingsPage/AddOptinCampaign.php:97
+msgid "Back to Overview"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddEmailCampaign.php:47
+msgid "Enter a name for this automation..."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddEmailCampaign.php:50
+msgid "Select Email Automation"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddEmailCampaign.php:67
+msgid "Add New Email Automation"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddEmailCampaign.php:102
+msgid ""
+"Posts email digest automatically send daily, weekly or monthly round-up of "
+"published posts to your users or email list. Upgrade to %s or higher to get "
+"this cool feature."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddEmailCampaign.php:123
+msgid "Template"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddEmailCampaign.php:128
+msgid "Select this template"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddEmailCampaign.php:129
+msgid "Select Template"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddEmailCampaign.php:143
+msgid "Code Your Own"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddOptinCampaign.php:28
+msgid "Add New Optin"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddOptinCampaign.php:40
+msgid "Optin Campaign Title"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddOptinCampaign.php:41
+msgid "Enter name for your optin campaign..."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddOptinCampaign.php:46
+msgid "Select Optin Type"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddOptinCampaign.php:49
+msgid "Loading..."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddOptinCampaign.php:53
+#: src/core/src/Admin/SettingsPage/OptinCampaigns.php:76
+msgid "Lightbox"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddOptinCampaign.php:58
+msgid "In-Post"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddOptinCampaign.php:63
+#: src/core/src/Admin/SettingsPage/OptinCampaigns.php:87
+msgid "Sidebar/Widget"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddOptinCampaign.php:67
+#: src/core/src/Admin/SettingsPage/OptinCampaigns.php:91
+msgid "Notification-Bar"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AddOptinCampaign.php:72
+#: src/core/src/Admin/SettingsPage/OptinCampaigns.php:96
+msgid "Slide-In"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AdvanceAnalytics.php:22
+msgid "Statistics - MailOptin"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AdvanceAnalytics.php:23
+#: src/core/src/Admin/SettingsPage/AdvanceAnalytics.php:82
+msgid "Statistics"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AdvanceAnalytics.php:50
+msgid "Advance Analytics Locked"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AdvanceAnalytics.php:53
+msgid ""
+"Get important metrics and insights to improve your lead-generation strategy "
+"and make data-driven decisions."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AdvanceAnalytics.php:59
+msgid "Your current plan does not include it."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/AdvanceAnalytics.php:63
+#: src/core/src/Admin/SettingsPage/LeadBank.php:88
+msgid "Upgrade to Unlock"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Campaign_Log_List.php:33
+msgid "campaign_log"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Campaign_Log_List.php:34
+msgid "campaign_logs"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Campaign_Log_List.php:135
+msgid "No email campaign has been sent yet."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Campaign_Log_List.php:148
+msgid "Subject"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Campaign_Log_List.php:149
+msgid "HTML"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Campaign_Log_List.php:150
+msgid "Plain Text"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Campaign_Log_List.php:151
+msgid "Status"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Campaign_Log_List.php:152
+msgid "Campaign Name"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Campaign_Log_List.php:153
+#: src/core/src/Admin/SettingsPage/ConversionExport.php:50
+msgid "Date & Time"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Campaign_Log_List.php:214
+msgid "Resend"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Campaign_Log_List.php:297
+msgid "Error logs"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Connections.php:49
+msgid "Integrations - MailOptin"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Connections.php:74
+#: src/core/src/Admin/SettingsPage/Email_Campaign_List.php:407
+#: src/core/src/Admin/SettingsPage/OptinCampaigns.php:67
+msgid "Filter By:"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Connections.php:78
+#: src/core/src/Admin/SettingsPage/OptinCampaigns.php:71
+msgid "All"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Connections.php:83
+msgid "Email Marketing"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Connections.php:88
+msgid "Social"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Connections.php:94
+msgid "Analytics"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Connections.php:98
+msgid "CRM"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Connections.php:103
+msgid "Other"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/ConversionExport.php:43
+msgid "Campaign"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/ConversionExport.php:44
+msgid "Subscriber Name"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/ConversionExport.php:45
+msgid "Subscriber Email"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/ConversionExport.php:46
+msgid "Custom Fields"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/ConversionExport.php:47
+msgid "User Agent"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/ConversionExport.php:48
+msgid "Conversion Page"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/ConversionExport.php:49
+msgid "Referrer"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/EmailCampaigns.php:49
+msgid "Email Automations - MailOptin"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/EmailCampaigns.php:122
+#: src/core/src/Admin/SettingsPage/OptinCampaigns.php:198
+msgid "Add New"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/EmailCampaigns.php:178
+msgid "Disable %sMailOptin new post notification%s for this post."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Email_Campaign_List.php:28
+msgid "email_campaign"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Email_Campaign_List.php:29
+msgid "email_campaigns"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Email_Campaign_List.php:204
+msgid "No email automation is currently available. %sConsider creating one%s"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Email_Campaign_List.php:265
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:573
+msgid "Customize"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Email_Campaign_List.php:271
+msgid "Clone"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Email_Campaign_List.php:338
+msgid "Automation Type"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Email_Campaign_List.php:339
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:426
+msgid "Actions"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Email_Campaign_List.php:340
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:427
+msgid "Activated"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Email_Campaign_List.php:411
+msgid "Filter email automations by"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Email_Campaign_List.php:421
+msgid "Apply"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/LeadBank.php:18
+msgid "Lead Bank (Submissions) - MailOptin"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/LeadBank.php:35
+msgid "Leads"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/LeadBank.php:55
+msgid "Lead Bank (Submissions)"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/LeadBank.php:74
+msgid "Lead Bank Locked"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/LeadBank.php:77
+msgid ""
+"LeadBank records or saves backup of all leads and conversions that happen on "
+"your site."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/LeadBank.php:83
+msgid "Your current plan does not include this feature."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:58
+msgid "optin_form"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:59
+msgid "optin_forms"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:319
+msgid "No campaign is currently available. %sConsider creating one%s"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:329
+msgid ""
+"No campaign is currently available for this optin type. %sConsider creating "
+"one%s"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:344
+#: src/core/src/Repositories/OptinThemesRepository.php:302
+msgid "Upgrade to %s for %s support"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:386
+msgid "Pause Test"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:389
+msgid "Start Test"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:397
+msgid "Add Variant"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:404
+msgid "End & Pick Winner"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:425
+msgid "Unique ID"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:428
+msgid "Impression"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:429
+msgid "Subscribers"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:430
+msgid "% Conversion"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:465
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:600
+msgid "Disable Test Mode"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:468
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:603
+msgid "Enable Test Mode"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:474
+msgid "Notification Bar"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:476
+msgid "Sidebar / Widget"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:488
+msgid "A/B"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:504
+msgid "Test Mode"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:608
+msgid "Create new split variation"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:610
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:643
+msgid "A/B Split Test"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:614
+msgid "Duplicate optin"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:616
+msgid "Duplicate"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:623
+msgid "Reset optin campaign statistics"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:625
+msgid "Reset Analytics"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:628
+msgid "Clear local cookies of this optin"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:630
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:698
+msgid "Clear Local Cookies"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaign_List.php:641
+msgid "This is a premium feature. Upgrade now!"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaigns.php:30
+msgid "Optin Campaigns - MailOptin"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaigns.php:31
+#: src/core/src/Admin/SettingsPage/OptinCampaigns.php:129
+#: src/core/src/Admin/SettingsPage/OptinCampaigns.php:155
+msgid "Optin Campaigns"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaigns.php:81
+msgid "In-Post "
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaigns.php:171
+msgid "Create New Split Test"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaigns.php:175
+msgid "Variant Name"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaigns.php:185
+msgid "Create Split Test"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/OptinCampaigns.php:188
+#: src/core/src/AjaxHandler.php:425
+msgid "An error occurred. Please try again."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/ProUpgrade.php:27
+msgid ""
+"Thank you for using <a href=\"%1$s\" target=\"_blank\">MailOptin</a>! Please "
+"<a href=\"%2$s\" target=\"_blank\">rate us</a> on <a href=\"%2$s\" target="
+"\"_blank\">WordPress.org</a>"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/ProUpgrade.php:50
+msgid "View MailOptin documentation"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/ProUpgrade.php:50
+msgid "Docs"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/ProUpgrade.php:51
+msgid "Visit customer support"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/ProUpgrade.php:51
+msgid "Support"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/ProUpgrade.php:56
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/ProUpgrade.php:56
+#: src/core/src/Admin/SettingsPage/ProUpgrade.php:77
+msgid "Go Premium"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:27
+msgid "Settings - MailOptin"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:71
+msgid "General Settings"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:74
+msgid "Remove Data on Uninstall?"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:75
+msgid ""
+"Check this box if you would like MailOptin to completely remove all of its "
+"data when uninstalled."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:79
+msgid "Allow Usage Tracking?"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:80
+msgid ""
+"Allow MailOptin to anonymously track how this plugin is used and help us "
+"make the plugin better. Opt-in to tracking and our newsletter. No sensitive "
+"data is tracked."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:84
+msgid "MailOptin Affiliate Link"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:86
+msgid ""
+"You can earn money by promoting MailOptin! %1$sJoin our affiliate program"
+"%2$s, and paste your %1$saffiliate link here%2$s. Once entered, it will "
+"replace the default MailOptin branding link on your optins."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:93
+msgid "Enable"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:94
+msgid "Switch Customizer Loader Method"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:95
+msgid ""
+"Check this if you are having problem with Customizer not loading properly."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:100
+msgid "Optin Campaign"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:102
+msgid "Optin Campaign Settings"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:105
+msgid "Clear Optin Cache"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:106
+msgid "Clear Cache"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:109
+msgid ""
+"Each time you create and make changes to your %soptin campaigns%s, MailOptin "
+"caches the designs so it doesn't hurt your website speed and performance. If "
+"for some reasons changes you made to your campaigns are not reflected on "
+"your website frontend, use this button to clear the cache."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:117
+msgid "Disable Impression Tracking"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:118
+msgid "Disable"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:123
+msgid "Global Interaction Cookie"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:124
+msgid ""
+"Entering a number of days (e.g. 30) will set a global cookie once any optin "
+"is closed by a user or visitor.\n"
+"                            This global cookie will prevent any other optins "
+"from loading on your site for that visitor until the cookie expires. "
+"Defaults to 0 (no global interaction cookie)."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:133
+msgid "Global Success Cookie"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:134
+msgid ""
+"Entering a number of days (e.g. 30) will set a global cookie once any optin "
+"has resulted in a successful conversion. This global cookie will prevent any "
+"other optins from loading on your site for that visitor until the cookie "
+"expires. Defaults to 0 (no global success cookie)."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:144
+msgid "Email Automation Settings"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:147
+msgid "From Name"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:148
+msgid "Enter the sender name to be used as the \"From Name\"."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:152
+msgid "From Email"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:153
+msgid "Enter the email address to be used as the \"From Email\""
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:157
+msgid "Reply To"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:158
+msgid "Enter the email address to be used as the \"Reply To\""
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:162
+msgid "Company / Organization"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:163
+msgid "Enter the name of your company or organization."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:167
+msgid "Address"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:171
+msgid "Address 2"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:179
+msgid "State / Province / Region"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/Settings.php:183
+msgid "Zip / Postal code"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/UsageTracking.php:295
+msgid ""
+"Allow MailOptin to track plugin usage. We guarantee no sensitive data is "
+"collected. Opt-in to tracking immediately be emailed a 15%s discount for <a "
+"href=\"%s\">plugin upgrade</a>."
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/UsageTracking.php:298
+msgid "Sure! I'd love to help"
+msgstr ""
+
+#: src/core/src/Admin/SettingsPage/UsageTracking.php:299
+msgid "No thanks"
+msgstr ""
+
+#: src/core/src/AjaxHandler.php:249 src/core/src/AjaxHandler.php:446
+#: src/core/src/AjaxHandler.php:484
+#: src/core/src/OptinForms/AbstractOptinForm.php:1065
+msgid "Unexpected error. Please try again."
+msgstr ""
+
+#: src/core/src/AjaxHandler.php:284
+msgid "Optin campaign with similar variant name exist already."
+msgstr ""
+
+#: src/core/src/AjaxHandler.php:393
+msgid "Select a Winner"
+msgstr ""
+
+#: src/core/src/AjaxHandler.php:396
+msgid "Optin Name"
+msgstr ""
+
+#: src/core/src/AjaxHandler.php:399
+msgid "Conversion Rate"
+msgstr ""
+
+#: src/core/src/AjaxHandler.php:413
+msgid "Warning: selecting a winner will delete the other A/B test variants."
+msgstr ""
+
+#: src/core/src/AjaxHandler.php:418
+msgid "Cancel"
+msgstr ""
+
+#: src/core/src/AjaxHandler.php:454
+msgid "Optin campaign with similar name exist already."
+msgstr ""
+
+#: src/core/src/AjaxHandler.php:494
+msgid "Upgrade to %s to create multiple email campaigns"
+msgstr ""
+
+#: src/core/src/AjaxHandler.php:501
+msgid "Email campaign with similar name exist already."
+msgstr ""
+
+#: src/core/src/AjaxHandler.php:661
+msgid "Email address is invalid. Try again."
+msgstr ""
+
+#: src/core/src/AjaxHandler.php:673
+#: src/core/src/OptinForms/AbstractOptinForm.php:1069
+msgid "Your submission has been flagged as potential spam."
+msgstr ""
+
+#: src/core/src/AjaxHandler.php:751 src/core/src/AjaxHandler.php:812
+msgid "No email provider or list has been set for this optin. Please try again"
+msgstr ""
+
+#: src/core/src/AjaxHandler.php:872 src/core/src/AjaxHandler.php:880
+msgid "Error: You have no custom field created."
+msgstr ""
+
+#: src/core/src/AjaxHandler.php:878
+msgid ""
+"Error: No integration field found. Select a list first if you haven't and "
+"try again."
+msgstr ""
+
+#: src/core/src/AjaxHandler.php:884
+msgid "Map Integration Fields with Form Custom Fields"
+msgstr ""
+
+#: src/core/src/AjaxHandler.php:896
+msgid "Select"
+msgstr ""
+
+#: src/core/src/AjaxHandler.php:910
+msgid "Save"
+msgstr ""
+
+#: src/core/src/Connections/AbstractConnect.php:221
+msgid ""
+"%s\n"
+"\n"
+" -- \n"
+"\n"
+"This e-mail was sent by %s plugin on %s (%s)"
+msgstr ""
+
+#: src/core/src/Connections/AbstractConnect.php:226
+msgid "Warning! \"%s\" Optin Campaign Is Not Working"
+msgstr ""
+
+#: src/core/src/Connections/AbstractConnect.php:231
+msgid ""
+"The optin campaign \"%s\" is failing to convert leads due to the following "
+"error \"%s\". %6$s -- %6$sThis e-mail was sent by %s plugin on %s (%s)"
+msgstr ""
+
+#: src/core/src/EmailCampaigns/AbstractTemplate.php:401
+msgid "Newsletter Powered by"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:13
+msgid "Afghanistan"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:14
+msgid "&#197;land Islands"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:15
+msgid "Albania"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:16
+msgid "Algeria"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:17
+msgid "American Samoa"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:18
+msgid "Andorra"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:19
+msgid "Angola"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:20
+msgid "Anguilla"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:21
+msgid "Antarctica"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:22
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:23
+msgid "Argentina"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:24
+msgid "Armenia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:25
+msgid "Aruba"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:26
+msgid "Australia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:27
+msgid "Austria"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:28
+msgid "Azerbaijan"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:29
+msgid "Bahamas"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:30
+msgid "Bahrain"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:31
+msgid "Bangladesh"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:32
+msgid "Barbados"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:33
+msgid "Belarus"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:34
+msgid "Belgium"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:35
+msgid "Belau"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:36
+msgid "Belize"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:37
+msgid "Benin"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:38
+msgid "Bermuda"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:39
+msgid "Bhutan"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:40
+msgid "Bolivia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:41
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:42
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:43
+msgid "Botswana"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:44
+msgid "Bouvet Island"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:45
+msgid "Brazil"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:46
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:47
+msgid "British Virgin Islands"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:48
+msgid "Brunei"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:49
+msgid "Bulgaria"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:50
+msgid "Burkina Faso"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:51
+msgid "Burundi"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:52
+msgid "Cambodia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:53
+msgid "Cameroon"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:54
+msgid "Canada"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:55
+msgid "Cape Verde"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:56
+msgid "Cayman Islands"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:57
+msgid "Central African Republic"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:58
+msgid "Chad"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:59
+msgid "Chile"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:60
+msgid "China"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:61
+msgid "Christmas Island"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:62
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:63
+msgid "Colombia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:64
+msgid "Comoros"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:65
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:66
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:67
+msgid "Cook Islands"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:68
+msgid "Costa Rica"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:69
+msgid "Croatia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:70
+msgid "Cuba"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:71
+msgid "Cura&ccedil;ao"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:72
+msgid "Cyprus"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:73
+msgid "Czech Republic"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:74
+msgid "Denmark"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:75
+msgid "Djibouti"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:76
+msgid "Dominica"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:77
+msgid "Dominican Republic"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:78
+msgid "Ecuador"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:79
+msgid "Egypt"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:80
+msgid "El Salvador"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:81
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:82
+msgid "Eritrea"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:83
+msgid "Estonia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:84
+msgid "Ethiopia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:85
+msgid "Falkland Islands"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:86
+msgid "Faroe Islands"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:87
+msgid "Fiji"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:88
+msgid "Finland"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:89
+msgid "France"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:90
+msgid "French Guiana"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:91
+msgid "French Polynesia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:92
+msgid "French Southern Territories"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:93
+msgid "Gabon"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:94
+msgid "Gambia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:95
+msgid "Georgia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:96
+msgid "Germany"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:97
+msgid "Ghana"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:98
+msgid "Gibraltar"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:99
+msgid "Greece"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:100
+msgid "Greenland"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:101
+msgid "Grenada"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:102
+msgid "Guadeloupe"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:103
+msgid "Guam"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:104
+msgid "Guatemala"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:105
+msgid "Guernsey"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:106
+msgid "Guinea"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:107
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:108
+msgid "Guyana"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:109
+msgid "Haiti"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:110
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:111
+msgid "Honduras"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:112
+msgid "Hong Kong"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:113
+msgid "Hungary"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:114
+msgid "Iceland"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:115
+msgid "India"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:116
+msgid "Indonesia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:117
+msgid "Iran"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:118
+msgid "Iraq"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:119
+msgid "Republic of Ireland"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:120
+msgid "Isle of Man"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:121
+msgid "Israel"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:122
+msgid "Italy"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:123
+msgid "Ivory Coast"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:124
+msgid "Jamaica"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:125
+msgid "Japan"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:126
+msgid "Jersey"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:127
+msgid "Jordan"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:128
+msgid "Kazakhstan"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:129
+msgid "Kenya"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:130
+msgid "Kiribati"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:131
+msgid "Kuwait"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:132
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:133
+msgid "Laos"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:134
+msgid "Latvia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:135
+msgid "Lebanon"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:136
+msgid "Lesotho"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:137
+msgid "Liberia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:138
+msgid "Libya"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:139
+msgid "Liechtenstein"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:140
+msgid "Lithuania"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:141
+msgid "Luxembourg"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:142
+msgid "Macao S.A.R., China"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:143
+msgid "Macedonia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:144
+msgid "Madagascar"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:145
+msgid "Malawi"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:146
+msgid "Malaysia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:147
+msgid "Maldives"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:148
+msgid "Mali"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:149
+msgid "Malta"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:150
+msgid "Marshall Islands"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:151
+msgid "Martinique"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:152
+msgid "Mauritania"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:153
+msgid "Mauritius"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:154
+msgid "Mayotte"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:155
+msgid "Mexico"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:156
+msgid "Micronesia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:157
+msgid "Moldova"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:158
+msgid "Monaco"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:159
+msgid "Mongolia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:160
+msgid "Montenegro"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:161
+msgid "Montserrat"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:162
+msgid "Morocco"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:163
+msgid "Mozambique"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:164
+msgid "Myanmar"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:165
+msgid "Namibia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:166
+msgid "Nauru"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:167
+msgid "Nepal"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:168
+msgid "Netherlands"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:169
+msgid "New Caledonia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:170
+msgid "New Zealand"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:171
+msgid "Nicaragua"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:172
+msgid "Niger"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:173
+msgid "Nigeria"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:174
+msgid "Niue"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:175
+msgid "Norfolk Island"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:176
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:177
+msgid "North Korea"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:178
+msgid "Norway"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:179
+msgid "Oman"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:180
+msgid "Pakistan"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:181
+msgid "Palestinian Territory"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:182
+msgid "Panama"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:183
+msgid "Papua New Guinea"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:184
+msgid "Paraguay"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:185
+msgid "Peru"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:186
+msgid "Philippines"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:187
+msgid "Pitcairn"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:189
+msgid "Portugal"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:190
+msgid "Puerto Rico"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:191
+msgid "Qatar"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:192
+msgid "Reunion"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:193
+msgid "Romania"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:194
+msgid "Russia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:195
+msgid "Rwanda"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:196
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:197
+msgid "Saint Helena"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:198
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:199
+msgid "Saint Lucia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:200
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:201
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:202
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:203
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:204
+msgid "San Marino"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:205
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:206
+msgid "Saudi Arabia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:207
+msgid "Senegal"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:208
+msgid "Serbia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:209
+msgid "Seychelles"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:210
+msgid "Sierra Leone"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:211
+msgid "Singapore"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:212
+msgid "Slovakia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:213
+msgid "Slovenia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:214
+msgid "Solomon Islands"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:215
+msgid "Somalia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:216
+msgid "South Africa"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:217
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:218
+msgid "South Korea"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:219
+msgid "South Sudan"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:220
+msgid "Spain"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:221
+msgid "Sri Lanka"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:222
+msgid "Sudan"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:223
+msgid "Suriname"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:224
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:225
+msgid "Swaziland"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:226
+msgid "Sweden"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:227
+msgid "Switzerland"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:228
+msgid "Syria"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:229
+msgid "Taiwan"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:230
+msgid "Tajikistan"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:231
+msgid "Tanzania"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:232
+msgid "Thailand"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:233
+msgid "Timor-Leste"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:234
+msgid "Togo"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:235
+msgid "Tokelau"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:236
+msgid "Tonga"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:237
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:238
+msgid "Tunisia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:239
+msgid "Turkey"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:240
+msgid "Turkmenistan"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:241
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:242
+msgid "Tuvalu"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:243
+msgid "Uganda"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:244
+msgid "Ukraine"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:245
+msgid "United Arab Emirates"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:246
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:247
+msgid "United States (US)"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:248
+msgid "United States (US) Minor Outlying Islands"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:249
+msgid "United States (US) Virgin Islands"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:250
+msgid "Uruguay"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:251
+msgid "Uzbekistan"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:252
+msgid "Vanuatu"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:253
+msgid "Vatican"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:254
+msgid "Venezuela"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:255
+msgid "Vietnam"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:256
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:257
+msgid "Western Sahara"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:258
+msgid "Samoa"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:259
+msgid "Yemen"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:260
+msgid "Zambia"
+msgstr ""
+
+#: src/core/src/Functions/countries.php:261
+msgid "Zimbabwe"
+msgstr ""
+
+#: src/core/src/Functions/custom-settings-api.php:149
+#: src/core/src/Functions/custom-settings-api.php:878
+msgid "Toggle panel"
+msgstr ""
+
+#: src/core/src/Functions/custom-settings-api.php:485
+msgid "Add New Email List"
+msgstr ""
+
+#: src/core/src/Functions/custom-settings-api.php:844
+msgid "Activate"
+msgstr ""
+
+#: src/core/src/OptinForms/AbstractOptinForm.php:1066
+msgid "Please enter a valid email."
+msgstr ""
+
+#: src/core/src/OptinForms/AbstractOptinForm.php:1067
+msgid "Please enter a name."
+msgstr ""
+
+#: src/core/src/OptinForms/AbstractOptinTheme.php:665
+msgid "Close optin form"
+msgstr ""
+
+#: src/core/src/OptinForms/AbstractOptinTheme.php:1081
+msgid "Invalid email address"
+msgstr ""
+
+#: src/core/src/OptinForms/Inpost/BareMetal.php:33
+#: src/core/src/OptinForms/Lightbox/BareMetal.php:33
+msgid "Get a little acid in your inbox"
+msgstr ""
+
+#: src/core/src/OptinForms/Inpost/Columbine.php:33
+msgid "Enter your name..."
+msgstr ""
+
+#: src/core/src/OptinForms/Inpost/Columbine.php:40
+msgid "Enter your email..."
+msgstr ""
+
+#: src/core/src/OptinForms/Inpost/Columbine.php:48
+#: src/core/src/OptinForms/Sidebar/Gridgum.php:36
+msgid "Subscribe To Newsletter"
+msgstr ""
+
+#: src/core/src/OptinForms/Inpost/Columbine.php:149
+msgid "Give it a try. You can unsubscribe at any time."
+msgstr ""
+
+#: src/core/src/OptinForms/Inpost/Columbine.php:237
+msgid "DON'T MISS OUT!"
+msgstr ""
+
+#: src/core/src/OptinForms/Inpost/Columbine.php:276
+#: src/core/src/OptinForms/Sidebar/Gridgum.php:299
+msgid "Mini Headline"
+msgstr ""
+
+#: src/core/src/OptinForms/Inpost/Columbine.php:291
+#: src/core/src/OptinForms/Sidebar/Gridgum.php:314
+msgid "Hide Mini Headline"
+msgstr ""
+
+#: src/core/src/OptinForms/Inpost/Columbine.php:304
+#: src/core/src/OptinForms/Sidebar/Gridgum.php:327
+msgid "Mini Headline Color"
+msgstr ""
+
+#: src/core/src/OptinForms/Inpost/Columbine.php:449
+#: src/core/src/OptinForms/Sidebar/Lupin.php:404
+msgid "Receive top education news, lesson ideas, teaching tips and more!"
+msgstr ""
+
+#: src/core/src/OptinForms/Inpost/Columbine.php:517
+#: src/core/src/OptinForms/Sidebar/Gridgum.php:508
+msgid "Don't miss out!"
+msgstr ""
+
+#: src/core/src/OptinForms/Inpost/Elegance.php:33
+#: src/core/src/OptinForms/Lightbox/Elegance.php:43
+msgid "Subscribe For Latest Updates"
+msgstr ""
+
+#: src/core/src/OptinForms/Inpost/Elegance.php:354
+#: src/core/src/OptinForms/Lightbox/Elegance.php:372
+msgid ""
+"Sign up to best of business news, informed analysis and opinions on what "
+"matters to you."
+msgstr ""
+
+#: src/core/src/OptinForms/Lightbox/BareMetal.php:134
+msgid "We promise not to spam you. You can unsubscribe at any time"
+msgstr ""
+
+#: src/core/src/OptinForms/Shortcodes.php:27
+msgid "click here"
+msgstr ""
+
+#: src/core/src/OptinForms/Shortcodes.php:48
+msgid "Click trigger does not support %s optin."
+msgstr ""
+
+#: src/core/src/OptinForms/Shortcodes.php:89
+msgid "Invalid optin campaign ID"
+msgstr ""
+
+#: src/core/src/OptinForms/Shortcodes.php:94
+msgid "Shortcode embed does not support %s optin."
+msgstr ""
+
+#: src/core/src/OptinForms/Sidebar/Gridgum.php:151
+msgid "We promise not to spam you. Unsubscribe at any time."
+msgstr ""
+
+#: src/core/src/OptinForms/Sidebar/Lupin.php:25
+msgid "Enter your email here..."
+msgstr ""
+
+#: src/core/src/OptinForms/Sidebar/Lupin.php:33
+msgid "Education Blogging Ideas!"
+msgstr ""
+
+#: src/core/src/OptinForms/SidebarWidgets.php:21
+msgid "Display a MailOptin sidebar/widget optin form in a widget area."
+msgstr ""
+
+#: src/core/src/OptinForms/SidebarWidgets.php:101
+msgid "Title:"
+msgstr ""
+
+#: src/core/src/OptinForms/SidebarWidgets.php:107
+msgid "Select Optin:"
+msgstr ""
+
+#: src/core/src/OptinForms/SidebarWidgets.php:116
+msgid "Not Activated"
+msgstr ""
+
+#: src/core/src/RegisterScripts.php:141
+msgid "Type to search"
+msgstr ""
+
+#: src/core/src/RegisterScripts.php:142
+msgid "Are you sure you want to do this?"
+msgstr ""
+
+#: src/core/src/RegisterScripts.php:143
+msgid ""
+"Are you sure you want to do this? Clicking OK will delete all your optin "
+"analytics records."
+msgstr ""
+
+#: src/core/src/Repositories/OptinThemesRepository.php:332
+msgid "Select this theme"
+msgstr ""
+
+#: src/core/src/Repositories/OptinThemesRepository.php:333
+msgid "Select Theme"
+msgstr ""
+
+#: vendor/a5hleyrich/wp-background-processing/classes/wp-background-process.php:425
+msgid "Every %d Minutes"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "MailOptin - Lite"
+msgstr ""
+
+#. #-#-#-#-#  mailoptin.pot (MailOptin - Lite 1.2.13.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  mailoptin.pot (MailOptin - Lite 1.2.13.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://mailoptin.io"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Best Lead Generation, Email Automation & Newsletter WordPress Plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MailOptin Team"
+msgstr ""
